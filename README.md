@@ -68,3 +68,17 @@ ls -d */ Show directory folder
 **cat x.txt >> y.txt**  In y , the x data included.
 
 
+
+
+
+## ✨ 🖌 .•*¨*•.¸¸♪ Command - 6
+
+**mkdir image** Make new directory named image
+
+**mkdir image/pics** Make subfolder if parent folder exists
+
+**mkdir -p names/mark** Make parent and subfolder both.
+
+**mkdir -p names/{a,b,c}** Make parent and those subfolder. Don't put any space.
+
+
